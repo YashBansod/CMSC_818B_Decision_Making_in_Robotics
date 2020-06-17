@@ -1,0 +1,17 @@
+# ignore python compiled test_files
+*.pyc
+
+# ignore the pycharm specific setting test_files
+.idea/*
+
+# ignore the virtual environment directory. (If you created the Venv inside the METHAnol Project)
+venv/*
+
+# ignore the following test and temp test_files
+test.*
+test?.*
+test??.*
+
+temp.*
+temp?.*
+temp??.*
