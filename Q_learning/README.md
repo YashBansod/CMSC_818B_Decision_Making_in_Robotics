@@ -2,7 +2,7 @@
 ### Important Links  
 
 **Google Drive:** https://drive.google.com/drive/folders/10fpWJJ92SCjZ-gV1rOac0aVbyJg_O_dH?usp=sharing   
-**Repository:** https://github.com/YashBansod/CMSC_818B_Q_learning    
+**Repository:** https://github.com/YashBansod/CMSC_818B_Decision_Making_in_Robotics/Q_learning    
 
 
 

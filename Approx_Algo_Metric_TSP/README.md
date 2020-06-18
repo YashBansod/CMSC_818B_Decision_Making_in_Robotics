@@ -2,7 +2,7 @@
 
 ### Important Links  
 **Google Drive:** https://drive.google.com/drive/folders/1iQzAVdQytJrctcUTW_0OMvOrLhjRr4Vc?usp=sharing  
-**Repository:** https://github.com/YashBansod/CMSC_818B_Approx_Algo_Metric_TSP  
+**Repository:** https://github.com/YashBansod/CMSC_818B_Decision_Making_in_Robotics/Approx_Algo_Metric_TSP  
 **Screencast:** https://drive.google.com/open?id=1MNniJMYw6viUou8udv-qtn165ki07zP7  
 **TSPLIB documentation:** https://wwwproxy.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/tsp95.pdf   
 

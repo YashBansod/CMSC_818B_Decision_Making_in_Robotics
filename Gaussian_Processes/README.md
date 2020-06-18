@@ -2,7 +2,7 @@
 ### Important Links 
 
 **Google Drive:** https://drive.google.com/drive/folders/10U8g9pcQ7CUGoMPV2hQwnR0gPRc-ICEn?usp=sharing  
-**Repository:** https://github.com/YashBansod/CMSC_818B_Gaussian_Processes  
+**Repository:** https://github.com/YashBansod/CMSC_818B_Decision_Making_in_Robotics/Gaussian_Processes  
 
 
 Some key highlights about the source code:
